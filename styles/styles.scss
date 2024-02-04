@@ -340,19 +340,29 @@
           }
 
           .c{
-            width: 60%;
+            width: 80%;
           }
           .cpp{
-            width: 65%;
+            width: 70%;
           }
 
           .java{
-            width: 68%;
+            width: 85%;
           }
 
           .oop{
-            width: 75%;
+            width: 90%;
           }
+          .css{
+            width: 90%;
+          }
+          .mern{
+            width: 65%;
+          }
+          .git{
+            width: 70%;
+          }
+
 
 
           }
@@ -605,6 +615,7 @@
     .submit-btn{
       display: flex;
       justify-content: flex-start;
+      
     }
   }
 }
@@ -627,7 +638,7 @@
   align-items: center;
   overflow: hidden;
   .btn-text{
-    padding: 0 2rem;
+    padding: 0 3rem;
   }
   .btn-icon{
     background-color: var(--color-secondary);
