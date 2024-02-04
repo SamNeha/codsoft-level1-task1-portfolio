@@ -343,16 +343,25 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .c {
-  width: 60%;
+  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 65%;
+  width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
-  width: 68%;
+  width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .oop {
-  width: 75%;
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mern {
+  width: 65%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .git {
+  width: 70%;
 }
 
 .stat-title {
@@ -614,7 +623,8 @@ section {
   overflow: hidden;
 }
 .main-btn .btn-text {
-  padding: 0 2rem;
+  padding: 0 3rem;
+  height: 40px;
 }
 .main-btn .btn-icon {
   background-color: var(--color-secondary);
